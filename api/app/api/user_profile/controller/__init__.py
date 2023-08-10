@@ -1,0 +1,4 @@
+import app.api.user_profile.controller.get_user_profile_by_id
+import app.api.user_profile.controller.update_user_profile
+import app.api.user_profile.controller.create_user_profile
+import app.api.user_profile.controller.delete_user_profile
